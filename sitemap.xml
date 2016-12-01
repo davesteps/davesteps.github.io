@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://davesteps.github.io/</loc>
+    <lastmod>2016-11-29T21:30:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/blog/hello-world/</loc>
+    <lastmod>2016-11-29T21:30:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/apps/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/coderag/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/geoexplorer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/homebrewr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/post/hello-world/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davesteps.github.io/sst/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,22 @@
+---
+title: "Hello World"
+author: "Frida Gomam"
+date: 2016-11-29T21:30:14-05:00
+categories: ["R"]
+---
+
+
+Setup a webpage with [rstudio/blogdown](https://github.com/rstudio/blogdown) and host it on github.
+
+As I want to set up a personal page rather than one for a project, I want to host it at `<username>.github.io`. Following the instructions found in the second part of [this](https://gohugo.io/tutorials/github-pages-blog/) post. 
+
+https://github.com/shenoybr/hugo-goa
+
+1. On github create repo called `<your-username>-hugo`
+2. On github create repo called `<your-username>.github.io`
+3. In Rstudio open a new project and choose clone git repo and choose the `<your-username>-hugo` repo
+4. Create your site using `blogdown::new_site()`
+5. In the config.toml change `baseurl = "https://<your-username>.github.io/"`
+
+
+

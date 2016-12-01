@@ -1,0 +1,42 @@
+---
+title: "> some shiny_"
+author: "David Stephens"
+categories: ["about"]
+comments: false
+date: "2016-10-02T22:55:05-04:00"
+draft: false
+slug: ""
+tags: ["about"]
+showpagemeta: false
+---
+****************
+### [homebrewR](https://davesteps.shinyapps.io/homebrewR/)
+Explore homebrew beer recipes
+
+<a href="https://davesteps.shinyapps.io/homebrewR/"><img src="apps/figures/brew.png" height="279" width="418" align="middle"/>
+
+****************
+### [machLearn](https://davesteps.shinyapps.io/machLearn/) 
+A machine learning dashboard
+
+<a href="https://davesteps.shinyapps.io/machLearn/"><img src="apps/figures/mach.png" height="279" width="418" align="middle"/>
+
+****************
+
+
+### [geoExploreR](https://davesteps.shinyapps.io/geoExploreR/)
+A spatial data visualization platform
+
+<a href="https://davesteps.shinyapps.io/geoExploreR/"><img src="apps/figures/geo.png" height="279" width="418" align="middle" />
+
+****************
+### [SST](https://davesteps.shinyapps.io/SST1/)
+View global sea surface temperature timeseries data
+
+<a href="https://davesteps.shinyapps.io/SST1/"><img src="apps/figures/sst.png" height="279" width="418" align="middle" />
+
+****************
+
+
+
+

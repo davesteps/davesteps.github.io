@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog-rsses on David Stephens</title>
-    <link>davesteps.github.io/blog/index.xml</link>
+    <link>http://davesteps.com/blog/index.xml</link>
     <description>Recent content in Blog-rsses on David Stephens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 29 Nov 2016 21:30:14 -0500</lastBuildDate>
-    <atom:link href="davesteps.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://davesteps.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>/davesteps.github.io/blog/hello-world/</link>
+      <link>http://davesteps.com/blog/hello-world/</link>
       <pubDate>Tue, 29 Nov 2016 21:30:14 -0500</pubDate>
       
-      <guid>/davesteps.github.io/blog/hello-world/</guid>
+      <guid>http://davesteps.com/blog/hello-world/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;

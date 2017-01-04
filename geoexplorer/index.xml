@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GeoExploreR-rsses on David Stephens</title>
-    <link>/geoExploreR/index.xml</link>
+    <link>/geoexplorer/index.xml</link>
     <description>Recent content in GeoExploreR-rsses on David Stephens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="/geoExploreR/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/geoexplorer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GeoExploreR-rsses on David Stephens</title>
-    <link>http://davesteps.com/geoExploreR/index.xml</link>
+    <link>/geoExploreR/index.xml</link>
     <description>Recent content in GeoExploreR-rsses on David Stephens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="http://davesteps.com/geoExploreR/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/geoExploreR/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://davesteps.com/geoexplorer/</link>
+      <link>/geoexplorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://davesteps.com/geoexplorer/</guid>
+      <guid>/geoexplorer/</guid>
       <description>&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD XHTML 1.0 Transitional//EN&#34; &#34;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#34;&gt;
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
     &lt;head&gt;

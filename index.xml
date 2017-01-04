@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Stephens</title>
-    <link>http://davesteps.com/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on David Stephens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 29 Nov 2016 21:30:14 -0500</lastBuildDate>
-    <atom:link href="http://davesteps.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://davesteps.com/blog/hello-world/</link>
+      <link>/blog/hello-world/</link>
       <pubDate>Tue, 29 Nov 2016 21:30:14 -0500</pubDate>
       
-      <guid>http://davesteps.com/blog/hello-world/</guid>
+      <guid>/blog/hello-world/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>&gt; some shiny_</title>
-      <link>http://davesteps.com/apps/</link>
+      <link>/apps/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://davesteps.com/apps/</guid>
+      <guid>/apps/</guid>
       <description>&lt;!-- BLOGDOWN-BODY-BEFORE
 
 /BLOGDOWN-BODY-BEFORE --&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>About</title>
-      <link>http://davesteps.com/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://davesteps.com/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]&lt;/p&gt;
 
 &lt;p&gt;In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.&lt;/p&gt;
@@ -108,10 +108,10 @@
     
     <item>
       <title>CodeRag</title>
-      <link>http://davesteps.com/coderag/</link>
+      <link>/coderag/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://davesteps.com/coderag/</guid>
+      <guid>/coderag/</guid>
       <description>&lt;p&gt;Notes: This article originally appeared in &lt;a href=&#34;http://www.coderag.com/-note-from-the-editor/&#34;&gt;CodeRag&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on. And like any other company in the Silicon Valley community, Code/Rag is an ever-evolving entity.&lt;/p&gt;
@@ -125,10 +125,10 @@ Editor-in-Chief&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://davesteps.com/geoexplorer/</link>
+      <link>/geoexplorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://davesteps.com/geoexplorer/</guid>
+      <guid>/geoexplorer/</guid>
       <description>&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD XHTML 1.0 Transitional//EN&#34; &#34;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#34;&gt;
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
     &lt;head&gt;
@@ -149,10 +149,10 @@ Editor-in-Chief&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://davesteps.com/homebrewr/</link>
+      <link>/homebrewr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://davesteps.com/homebrewr/</guid>
+      <guid>/homebrewr/</guid>
       <description>&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD XHTML 1.0 Transitional//EN&#34; &#34;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#34;&gt;
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
     &lt;head&gt;
@@ -173,10 +173,10 @@ Editor-in-Chief&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://davesteps.com/post/hello-world/</link>
+      <link>/post/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://davesteps.com/post/hello-world/</guid>
+      <guid>/post/hello-world/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
@@ -344,10 +344,10 @@ $(document).ready(function () {
     
     <item>
       <title></title>
-      <link>http://davesteps.com/sst/</link>
+      <link>/sst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://davesteps.com/sst/</guid>
+      <guid>/sst/</guid>
       <description>&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD XHTML 1.0 Transitional//EN&#34; &#34;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#34;&gt;
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
     &lt;head&gt;

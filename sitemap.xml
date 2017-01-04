@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://davesteps.com/</loc>
+    <loc>/</loc>
     <lastmod>2016-11-29T21:30:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://davesteps.com/blog/hello-world/</loc>
+    <loc>/blog/hello-world/</loc>
     <lastmod>2016-11-29T21:30:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://davesteps.com/apps/</loc>
+    <loc>/apps/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://davesteps.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://davesteps.com/coderag/</loc>
+    <loc>/coderag/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://davesteps.com/geoexplorer/</loc>
+    <loc>/geoexplorer/</loc>
   </url>
   
   <url>
-    <loc>http://davesteps.com/homebrewr/</loc>
+    <loc>/homebrewr/</loc>
   </url>
   
   <url>
-    <loc>http://davesteps.com/post/hello-world/</loc>
+    <loc>/post/hello-world/</loc>
   </url>
   
   <url>
-    <loc>http://davesteps.com/sst/</loc>
+    <loc>/sst/</loc>
   </url>
   
 </urlset>
